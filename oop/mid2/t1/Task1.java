@@ -126,9 +126,4 @@ public class Task1 {
 
         return result;
     }
-    public static void printList(List<?> list) {
-        for (int i = 0; i < list.size(); i++) {
-            System.out.println("Position " + i + ": " + list.get(i));
-        }
-    }
 }
