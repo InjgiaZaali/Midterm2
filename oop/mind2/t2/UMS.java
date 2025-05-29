@@ -49,22 +49,32 @@ public class UMS {
         student.addCourse(new LearningCourse(
                 "Computer Organization",
                 "Introduction to Programming",
-                "Digital logic, processor architecture, memory hierarchy, " +
-                        "instruction sets, and data representation in computer systems."
+                "Representing and manipulating information;" +
+                        "Machine-level representations of programs;" +
+                        "Optimizing program Performance;" +
+                        "The memory hierarchy"
         ));
 
         student.addCourse(new LearningCourse(
                 "Mathematical Foundation of Computing",
-                "Calculus I, Introduction to Programming",
-                "Set theory, logic, functions, relations, recursion, " +
-                        "induction, and graph theory in the context of computing."
+                "Calculus I, CS50 Introduction to Programming",
+                "Mathematical logic;" +
+                        "Elements of Discrete Mathematics;" +
+                        "Elements of Sets Theory" +
+                        "Elements of Graph Theory" +
+                        "Elements of Combinatorics;" +
+                        "Elements of Digital Systems"
+                
         ));
 
         student.addCourse(new LearningCourse(
                 "Calculus II",
                 "Calculus I",
-                "Limits, Derivatives of Functions, Applications of Derivatives," +
-                        " Integrals, Fundamental Theorem of Calculus"
+                "Antiderivatives;" +
+                        "Definite integrals; " +
+                        "Techniques and applications of integration; " +
+                        "Improper integrals;" +
+                        "Infinite series"
         ));
 
         student.addCourse(new LearningCourse(
