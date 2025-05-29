@@ -60,8 +60,8 @@ public class UMS {
                 "Calculus I, CS50 Introduction to Programming",
                 "Mathematical logic;" +
                         "Elements of Discrete Mathematics;" +
-                        "Elements of Sets Theory" +
-                        "Elements of Graph Theory" +
+                        "Elements of Sets Theory;" +
+                        "Elements of Graph Theory;" +
                         "Elements of Combinatorics;" +
                         "Elements of Digital Systems"
                 
